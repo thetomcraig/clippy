@@ -37,7 +37,7 @@ void app.whenReady().then(async () => {
 
     let hotkey;
     if (isMac) {
-        hotkey = "Cmd+Shift+F18";
+        hotkey = "Cmd+Alt+Space";
     } else {
         hotkey = "Control+Shift+Alt+O";
     }
